@@ -1,6 +1,6 @@
 # HCI Driven Interface & Design
 
-A full‑stack event operations platform designed for organizers, vendors, staff, and attendees. It enables end‑to‑end event lifecycle management – from planning and vendor coordination to task assignment, registration, and feedback – all within a role‑based, interactive, and accessible interface.
+A full‑stack event operations platform designed for organizers, vendors, staff, and attendees. It enables end‑to‑end event lifecycle management: from planning and vendor coordination to task assignment, registration, and feedback: all within a role‑based, interactive, and accessible interface.
 
 The project was developed as an **Applied Human‑Computer Interaction (AHCI)** undergraduate capstone, applying HCI principles throughout the user experience.
 
@@ -23,7 +23,7 @@ The project was developed as an **Applied Human‑Computer Interaction (AHCI)** 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 | Technology | Version | Purpose |
@@ -62,7 +62,7 @@ The project was developed as an **Applied Human‑Computer Interaction (AHCI)** 
 
 ---
 
-## 🧠 Applied HCI Principles (Fully Implemented)
+## Applied HCI Principles (Fully Implemented)
 
 | Principle | Implementation |
 |-----------|----------------|
@@ -83,7 +83,7 @@ The project was developed as an **Applied Human‑Computer Interaction (AHCI)** 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 20+ and npm

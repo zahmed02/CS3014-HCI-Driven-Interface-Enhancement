@@ -71,7 +71,7 @@ Only principles that are **fully and strictly implemented** across the interface
 - **Prettier** (code formatting)
 - **Tailwind Merge + clsx** (conditional class names)
 
-## 🗄️ Database Schema (Oracle)
+## Database Schema (Oracle)
 
 Key tables:
 - `users` (authentication, roles)
@@ -294,7 +294,7 @@ D:\ahci-project\
 
 ---
 
-## 📌 Key Directories Explained
+## Key Directories Explained
 
 | Directory | Purpose |
 |-----------|---------|

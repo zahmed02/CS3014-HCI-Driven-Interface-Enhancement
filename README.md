@@ -1,7 +1,7 @@
-# CS3014 Operations Management System
+# Operations Management System
 
 ## Course: CS3014 Applied Human Computer Interaction
-## Instructor & Project Supervisor: Sir Ghulam Murtaza
+## Instructor: Sir Ghulam Murtaza
 
 ## Overview
 A full‑stack event operations platform designed for **organizers**, **vendors**, **staff**, and **attendees**. It streamlines the entire event lifecycle from planning and vendor coordination to task management and post‑event feedback, while demonstrating core **Human‑Computer Interaction (HCI)** principles in every interaction.
